@@ -1,0 +1,42 @@
+.gr{
+    background-image: linear-gradient(white,#00eaff,#60caff);
+    height: 2cm;
+}
+.gr1{
+background-color: #00eaff;
+}
+.resume{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+.pic{
+    
+    position: relative;
+    /* left: 400px; */
+    bottom:20px;
+}
+.obj{
+    position: relative;
+    top: 10px;
+    text-decoration: underline;
+}
+.obj1{
+    font-size: 20px;
+}
+.top1{
+    font-family: 'RocknRoll One', sans-serif;
+position: relative;
+top:30px;
+}
+.edu{
+    position: relative;
+    text-decoration: underline;
+}
+.tech{
+    text-decoration: underline;
+}
+H3{
+    font-weight: 600;
+}
